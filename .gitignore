@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Flask
+instance/
+*.sqlite3
+
+# venv
+venv/
+.venv/
+
+# Telegram related
+tdata/
+telegram_accounts/*/tdata/
+telegram_proxies/*_proxy.txt
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/modules.xml
+.vscode/
+
+# Miscellaneous
+*.bak
+*.tmp

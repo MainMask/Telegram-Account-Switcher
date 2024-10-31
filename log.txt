@@ -1,0 +1,49 @@
+[2024.10.31 11:08:50] Launched version: 5006003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2024.10.31 11:08:50] Executable dir: /Applications/, name: Telegram 2.app
+[2024.10.31 11:08:50] Initial working dir: /Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher/
+[2024.10.31 11:08:50] Working dir: /Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher/
+[2024.10.31 11:08:50] Command line: /Applications/Telegram 2.app/Contents/MacOS/Telegram -workdir /Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher --proxy-server None
+[2024.10.31 11:08:50] Executable path before check: /Applications/Telegram 2.app
+[2024.10.31 11:08:50] Logs started
+[2024.10.31 11:08:50] Connecting local socket to /tmp/a0e26e08d45fe02aeb1c31c16886cb48-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2024.10.31 11:08:50] Socket connect error 0, starting server and app...
+[2024.10.31 11:08:50] Moved logging from '/Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher/log_start0.txt' to '/Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher/log.txt'!
+[2024.10.31 11:08:50] Opened '/Users/lunycash/Desktop/Desktop Workspace/Telegram Account Switcher/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2024.10.31 11:08:50] Global devicePixelRatio: 2
+[2024.10.31 11:08:50] Primary screen DPI: 72, Base: 72.
+[2024.10.31 11:08:50] Computed screen scale: 100
+[2024.10.31 11:08:50] DevicePixelRatio: 2
+[2024.10.31 11:08:50] ScreenScale: 110
+[2024.10.31 11:08:51] Media Info: Type Playback, default: BuiltInSpeakerDevice, list: { "Динамики MacBook Pro" <BuiltInSpeakerDevice>, "Microsoft Teams Audio" <MSLoopbackDriverDevice_UID> }, full list refresh: true
+[2024.10.31 11:08:51] Media Info: Type Capture, default: BuiltInMicrophoneDevice, list: { "Микрофон MacBook Pro" <BuiltInMicrophoneDevice>, "Микрофон (iPhone)" <D135B123-88AA-4215-8D8A-951D00000003>, "Microsoft Teams Audio" <MSLoopbackDriverDevice_UID> }, full list refresh: true
+[2024.10.31 11:08:51] Media Info: Type Camera, default: 0x8020000005ac8514, list: { "HD-камера FaceTime (встроенная)" <0x8020000005ac8514>, "Камера (iPhone)" <D135B123-88AA-4215-8D8A-951D00000001> }, full list refresh: true
+[2024.10.31 11:08:51] App Info: reading settings...
+[2024.10.31 11:08:51] App Info: reading encrypted settings...
+[2024.10.31 11:08:51] Lang Info: Loaded cached, keys: 7528
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans'
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans'
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2024.10.31 11:08:51] Font: from ':/gui/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL'
+[2024.10.31 11:08:52] OpenAL Logging Level: (not set)
+[2024.10.31 11:08:52] Title Font: .AppleSystemUIFont
+[2024.10.31 11:08:52] App Info: reading accounts info...
+[2024.10.31 11:08:52] App Info: reading encrypted info...
+[2024.10.31 11:08:52] App Info: reading map...
+[2024.10.31 11:08:52] App Info: reading encrypted map...
+[2024.10.31 11:08:52] App Info: reading encrypted user settings...
+[2024.10.31 11:08:52] App Info: encrypted user settings read.
+[2024.10.31 11:08:52] App Info: reading encrypted mtp data...
+[2024.10.31 11:08:52] MTP Info: read keys, current: 3, to destroy: 0
+[2024.10.31 11:08:52] Map read time: 2
+[2024.10.31 11:08:52] App Info: reading encrypted mtp config...
+[2024.10.31 11:08:53] Export Info: Destroy top bar by controller removal.
+[2024.10.31 11:08:53] OpenGL Profile: NoProfile.
+[2024.10.31 11:08:53] OpenGL Renderer: Intel(R) Iris(TM) Plus Graphics 645
+[2024.10.31 11:08:53] OpenGL Vendor: Intel Inc.
+[2024.10.31 11:08:53] OpenGL Version: 2.1 INTEL-23.0.21
+[2024.10.31 11:08:53] OpenGL Extensions: GL_ARB_fragment_program_shadow, GL_ARB_pixel_buffer_object, , GL_APPLE_ycbcr_422, GL_APPLE_row_bytes, GL_EXT_shadow_funcs, GL_NV_fog_distance, GL_EXT_texture_shared_exponent, GL_EXT_gpu_program_parameters, GL_ARB_depth_buffer_float, GL_ARB_provoking_vertex, GL_EXT_provoking_vertex, GL_EXT_geometry_shader4, GL_ARB_shader_texture_lod, GL_EXT_vertex_array_bgra, GL_APPLE_rgb_422, GL_ARB_texture_cube_map, GL_EXT_texture_sRGB, GL_EXT_packed_depth_stencil, GL_ARB_shading_language_100, GL_ARB_framebuffer_sRGB, GL_ARB_texture_env_combine, GL_EXT_texture_integer, GL_ARB_texture_mirrored_repeat, GL_EXT_framebuffer_sRGB, GL_ARB_draw_instanced, GL_EXT_abgr, GL_EXT_draw_buffers2, GL_ARB_texture_rectangle, GL_EXT_clip_volume_hint, GL_APPLE_element_array, GL_ATI_separate_stencil, GL_APPLE_vertex_point_size, GL_ARB_shadow, GL_EXT_texture_filter_anisotropic, GL_APPLE_vertex_program_evaluators, GL_APPLE_float_pixels, GL_ARB_texture_env_add, GL_ARB_point_parameters, GL_EXT_texture_compression_s3tc, GL_EXT_blend_minmax, GL_APPLE_client_storage, GL_ARB_texture_rg, GL_EXT_fog_coord, GL_ARB_texture_env_dot3, GL_NV_conditional_render, GL_IBM_rasterpos_clip, GL_APPLE_texture_range, GL_APPLE_specular_vector, GL_ARB_depth_texture, GL_ARB_sync, GL_APPLE_flush_render, GL_ARB_half_float_pixel, GL_EXT_separate_specular_color, GL_NV_texgen_reflection, GL_ARB_texture_non_power_of_two, GL_ARB_depth_clamp, GL_EXT_debug_marker, GL_ARB_vertex_blend, GL_EXT_blend_color, GL_ARB_texture_compression_rgtc, GL_ARB_vertex_program, GL_EXT_blend_equation_separate, GL_ARB_multitexture, GL_ATI_texture_env_combine3, GL_ARB_draw_elements_base_vertex, GL_ARB_half_float_vertex, GL_APPLE_aux_depth_stencil, GL_EXT_secondary_color, GL_ARB_window_pos, GL_EXT_texture_array, GL_SGIS_generate_mipmap, GL_ARB_draw_buffers, GL_EXT_texture_compression_dxt1, GL_APPLE_fence, GL_EXT_framebuffer_object, GL_EXT_stencil_wrap, GL_ARB_texture_env_crossbar, GL_APPLE_packed_pixels, GL_EXT_framebuffer_multisample_blit_scaled, GL_NV_depth_clamp, GL_EXT_rescale_normal, GL_APPLE_object_purgeable, GL_EXT_texture_env_add, GL_ARB_color_buffer_float, GL_EXT_texture_lod_bias, GL_ARB_texture_border_clamp, GL_EXT_multi_draw_arrays, GL_APPLE_transform_hint, GL_EXT_texture_sRGB_decode, GL_SGIS_texture_lod, GL_ARB_multisample, GL_NV_blend_square, GL_ARB_vertex_array_bgra, GL_EXT_debug_label, GL_EXT_transform_feedback, GL_ARB_texture_compression, GL_ARB_instanced_arrays, GL_EXT_blend_func_separate, GL_NV_texture_barrier, GL_EXT_blend_subtract, GL_SGIS_texture_edge_clamp, GL_EXT_bgra, GL_ARB_transpose_matrix, GL_EXT_stencil_two_side, GL_EXT_texture_rectangle, GL_ARB_fragment_program, GL_EXT_timer_query, GL_ARB_occlusion_query, GL_ARB_seamless_cube_map, GL_EXT_draw_range_elements, GL_ATI_texture_mirror_once, GL_APPLE_vertex_array_range, GL_APPLE_vertex_array_object, GL_ARB_shader_objects, GL_ATI_texture_float, GL_NV_light_max_exponent, GL_ARB_fragment_shader, GL_APPLE_flush_buffer_range, GL_ARB_vertex_buffer_object, GL_EXT_packed_float, GL_EXT_framebuffer_multisample, GL_ARB_texture_float, GL_EXT_gpu_shader4, GL_APPLE_pixel_buffer, GL_ARB_framebuffer_object, GL_ARB_vertex_shader, GL_EXT_framebuffer_blit, GL_ARB_point_sprite
+[2024.10.31 11:08:53] OpenGL: QOpenGLContext created, version: 2.2.
+[2024.10.31 11:08:53] OpenGL: [TRUE] (Window)
+[2024.10.31 11:08:55] API Error: Could not resolve story 6304940402_6
